@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MoviesSpringBootApplication<moviesSpringBoot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.wayneEntertainment.moviesSpringBoot.MoviesSpringBootApplication",
+            "projectName": "moviesSpringBoot",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
