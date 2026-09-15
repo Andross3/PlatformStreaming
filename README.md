@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     genres ||--o{ videos : "categorizes"
     users ||--o{ subscriptions : "purchases"
@@ -40,3 +41,4 @@ erDiagram
         int video_id FK
         int watch_min
     }
+```
